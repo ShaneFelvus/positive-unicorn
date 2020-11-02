@@ -39,8 +39,9 @@ li, a {
 	color: #fb04ad;
 	opacity: 0.8;
 	text-decoration: none;
-}
-
-img {
-	
+.left {
+	float: left;
+	margin-right: -400px;
+	padding-left: 50px;
+	margin-top:  200px;
 }
