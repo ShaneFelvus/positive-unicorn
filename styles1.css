@@ -40,6 +40,14 @@ li, a {
 	opacity: 0.8;
 	text-decoration: none;
 }
+
+header > p {
+	
+	font-family: 'Itim', cursive;
+	color: #fb04ad;
+
+}
+
 .left {
 	float: left;
 	margin-right: -400px;
